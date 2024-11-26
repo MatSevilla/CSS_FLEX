@@ -1,0 +1,1 @@
+The CSS Flexbox module provides a layout system that simplifies the creation of flexible and responsive designs without relying on floats or manual positioning. It streamlines the horizontal and vertical alignment and distribution of items within a container.
